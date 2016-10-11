@@ -1,0 +1,25 @@
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+to install webconsole
+feature:install webconsole
+
+You will now be able to point your browser to http://localhost:8181/system/console and login with user smx and password smx to access the web console. From the webconsole, you can also start and stop bundles, install optional features again
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+adding repo for cellar for doing cluster
+
+feature:repo-add cellar
+feature:install cellar
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+links:>>>
+
+https://www.youtube.com/watch?v=HfNrTp371LA#t=153
+
+cluster config : 
+http://docs.hazelcast.org/docs/2.4/manual/html/ch12s02.html
+http://stackoverflow.com/questions/30574670/cellar-clustering-in-servicemix
+https://karaf.apache.org/manual/cellar/latest-4/
+-------------------------------------------------------------------------------------------------------------------------------------------------
